@@ -1,0 +1,28 @@
+.class-1 {
+    /* example */
+    aspect-ratio: 2/3;
+    /* the element remain block */
+    width: fit-content;
+    background: blue;
+    color: white;
+    padding: 3px;
+}
+
+
+.class-2 {
+    height: auto;
+    aspect-ratio: 275/183;
+    width: 500px;
+    /* for give color inputs elements */
+    accent-color: green;
+    
+}
+
+.class-3 {
+    width: 330px;
+    height: 500px;
+    /* for fix proportions image */
+    object-fit: cover;
+}
+
+
